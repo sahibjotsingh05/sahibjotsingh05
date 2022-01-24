@@ -1,5 +1,5 @@
 <img src="banner.jpg" width="100%" style="display:block;margin:0px auto;">
-#### I'm a Student, Full Stack Web Developer, and Passionate!!
+<h2> I'm a Student, Full Stack Web Developer, and Passionate!!</h2>
 
 - 🌱 I’m currently in my High School
 - 👯 I’m looking to collaborate with other developers
@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love Physics and Mathematics
 <br>
 <br>
-## Programming Languages
+<h2>Programming Languages</h2>
 - HTML
 - CSS
 - JavaScript
@@ -23,7 +23,7 @@
 - ...And Still Learning
 <br>
 <br>
-### Here are a few quotes from my collection
+<h2>Here are a few quotes from my collection</h2>
 
 <blockquote> 
   “Java is to JavaScript what Car is to Carpet.”<br />
