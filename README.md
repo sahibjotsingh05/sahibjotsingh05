@@ -27,7 +27,6 @@
 <ul>
 <li><a href="awesomeelements.co.in">Awesome Elements</a></li>
 </ul>
-<br><br>
 <h2>Here are a few quotes from my collection</h2>
 
 <blockquote> 
