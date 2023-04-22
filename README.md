@@ -1,10 +1,9 @@
 <img src="banner.jpg" width="100%" style="display:block;margin:0px auto;">
 <h2> I'm a Student, Full Stack Web Developer, and Passionate!!</h2>
 
-- 🌱 I’m currently in my High School
 - 👯 I’m looking to collaborate with other developers
 - 💻 I’m currently using Windows but I am a BIG fan of Mac
-- 🥅 2022 Goals: Build Something Cool
+- 🥅 2023 Goals: Build Something Cool
 - ⚡ Fun fact: I love Physics and Mathematics
 <br>
 <br>
