@@ -24,7 +24,7 @@
 <br>
 <h2>Checkout the cool website I made :</h2>
 <ul>
-<li><a href="http://www.awesomeelements.co.in" target="blank">Awesome Elements</a></li>
+<li><a href="https://sahibjot.tech/portfolio/awesomeelements" target="blank">Awesome Elements</a></li>
 </ul>
 <h2>Here are a few quotes from my collection</h2>
 
